@@ -1,1 +1,0 @@
-"./main.obj" "./tm4c123gh6zxr_startup_ccs.obj" "../tm4c123gh6zxr.cmd" -l"libc.a" 
